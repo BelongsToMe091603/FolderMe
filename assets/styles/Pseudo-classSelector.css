@@ -1,0 +1,19 @@
+<!-- rule akan diterapkan pada sebuah tautan yang belum pernah dikunjungi-->
+a:link {
+	color: red;
+}
+
+<!-- rule akan diterapkan pada sebuah tautan yang sudah pernah dikunjungi-->
+a:visited {
+	color: green;
+}
+
+<!-- rule akan diterapkan pada sebuah tautan ketika diarahkan dengan kursor-->
+a:hover {
+	color: pink;
+}
+
+<!--rule akan diterapkan pada sebuah tautan ketika ditekan-->
+a:active {
+	color: orange;
+}
