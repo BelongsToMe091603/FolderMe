@@ -1,22 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T10:40:33.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="JEAjmg7Lw9e-vJVAzDtJ" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T15:36:25.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="dXg9e4BtJussHJD8oM33" version="15.7.1" type="github">
   <diagram id="5zGaVDz8OMs9CHSocypC" name="Halaman-1">
-    <mxGraphModel dx="2403" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3352" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;fontFamily=Helvetica;fontSize=18;fillColor=#66FF66;fontColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="20" y="370" width="240" height="240" as="geometry" />
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-23" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=16;fontColor=#000000;fillColor=#CCFFCC;align=center;" vertex="1" parent="1">
+          <mxGeometry x="347" y="420" width="286" height="405" as="geometry" />
         </mxCell>
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-1" value="&lt;font style=&quot;font-size: 13px ; font-weight: normal&quot;&gt;Penyajian Himpunan&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="130" y="220" width="200" height="48.45" as="geometry" />
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-13" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=20;fontColor=#000000;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="640" y="470" width="500" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-2" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;fontFamily=Helvetica;fontSize=14;align=right;fillColor=#99FF99;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="340" y="40" width="200" height="170" as="geometry" />
+        <mxCell id="9hUdyjjjsrxh6lWfsKDw-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;fontFamily=Helvetica;fontSize=18;fillColor=#66FF66;fontColor=#009900;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="285" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-3" value="&lt;h1 style=&quot;font-size: 18px&quot;&gt;Teori&amp;nbsp;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 18px&quot;&gt;Himpunan&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=18;align=center;" vertex="1" parent="1">
-          <mxGeometry x="372.5" y="65" width="135" height="60" as="geometry" />
+        <mxCell id="9hUdyjjjsrxh6lWfsKDw-1" value="&lt;font style=&quot;font-size: 13px ; font-weight: normal&quot;&gt;Penyajian Himpunan&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;rotation=15;" parent="1" vertex="1">
+          <mxGeometry x="25" y="216.55" width="200" height="48.45" as="geometry" />
         </mxCell>
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=18;entryX=0.517;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9hUdyjjjsrxh6lWfsKDw-7" target="9hUdyjjjsrxh6lWfsKDw-2">
+        <mxCell id="9hUdyjjjsrxh6lWfsKDw-2" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;fontFamily=Helvetica;fontSize=14;align=right;fillColor=#99FF99;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="30" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9hUdyjjjsrxh6lWfsKDw-3" value="&lt;h1 style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;Teori&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;Himpunan&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-171.5" y="72.5" width="143" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="9hUdyjjjsrxh6lWfsKDw-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=18;entryX=0.517;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="9hUdyjjjsrxh6lWfsKDw-7" target="9hUdyjjjsrxh6lWfsKDw-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="145" y="240" as="sourcePoint" />
             <mxPoint x="440" y="150" as="targetPoint" />
@@ -25,58 +31,219 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-8" value="&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;Cara&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;Tabulasi&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;(Roster Method/&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;enumerasi&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="105" y="400" width="150" height="100" as="geometry" />
+        <mxCell id="9hUdyjjjsrxh6lWfsKDw-8" value="&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;Cara&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;Tabulasi&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;(Roster Method/&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;enumerasi&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="170" y="314" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-9" value="&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;Cara&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;Pencirian&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 15px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;(Rule Method/&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;Notasi&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;pembentuk&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;himpunan&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="400" width="210" height="80" as="geometry" />
+        <mxCell id="9hUdyjjjsrxh6lWfsKDw-9" value="&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;Cara&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;Pencirian&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 15px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;(Rule Method/&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;Notasi&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;pembentuk&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;himpunan&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="20" y="314" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-10" value="&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Simbol- simbol&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Baku&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="500" width="160" height="70" as="geometry" />
+        <mxCell id="9hUdyjjjsrxh6lWfsKDw-11" value="&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Diagram Venn&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="175" y="400" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-11" value="&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Diagram Venn&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="110" y="490" width="140" height="70" as="geometry" />
+        <mxCell id="9hUdyjjjsrxh6lWfsKDw-12" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#000000;fillColor=#66FF66;align=center;" parent="1" vertex="1">
+          <mxGeometry x="736.25" y="265" width="260" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-12" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#000000;fillColor=#66FF66;align=center;" vertex="1" parent="1">
-          <mxGeometry x="730" y="320" width="260" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-13" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#000000;entryX=0.515;entryY=1.035;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9hUdyjjjsrxh6lWfsKDw-12" target="9hUdyjjjsrxh6lWfsKDw-2">
+        <mxCell id="9hUdyjjjsrxh6lWfsKDw-13" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#000000;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.49;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9hUdyjjjsrxh6lWfsKDw-12" target="9hUdyjjjsrxh6lWfsKDw-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="470" as="sourcePoint" />
-            <mxPoint x="450" y="420" as="targetPoint" />
+            <mxPoint x="600" y="206" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="280" />
-              <mxPoint x="570" y="230" />
+              <mxPoint x="810" y="240" />
+              <mxPoint x="670" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-14" value="&lt;h1&gt;Kardinalitas&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="765" y="375" width="190" height="60" as="geometry" />
+        <mxCell id="9hUdyjjjsrxh6lWfsKDw-14" value="&lt;h1&gt;Kardinalitas&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="780" y="324" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;shadow=0;labelBorderColor=none;sketch=0;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=default;entryX=0.315;entryY=0.841;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9hUdyjjjsrxh6lWfsKDw-18" target="9hUdyjjjsrxh6lWfsKDw-12">
+        <mxCell id="9hUdyjjjsrxh6lWfsKDw-18" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; vertical-align: baseline&quot;&gt;Himpunan&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.2pt ; vertical-align: baseline&quot;&gt;kosong&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.2pt ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.05pt ; vertical-align: baseline&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.05pt ; font-style: italic ; vertical-align: baseline&quot;&gt;null&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: 0.05pt ; font-style: italic ; vertical-align: baseline&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.1pt ; font-style: italic ; vertical-align: baseline&quot;&gt;set&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.1pt ; vertical-align: baseline&quot;&gt;)&lt;/span&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;fontColor=#000000;fillColor=#33FF33;align=center;" parent="1" vertex="1">
+          <mxGeometry x="820" y="483" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9hUdyjjjsrxh6lWfsKDw-19" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; vertical-align: baseline&quot;&gt;Himpunan&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; letter-spacing: -0.85pt ; vertical-align: baseline&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; vertical-align: baseline&quot;&gt;Bagian&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; letter-spacing: -0.1pt ; vertical-align: baseline&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.1pt ; font-style: italic ; vertical-align: baseline&quot;&gt;Subset&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; letter-spacing: -0.1pt ; vertical-align: baseline&quot;&gt;)&lt;/span&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;fontColor=#000000;fillColor=#33FF33;align=center;" parent="1" vertex="1">
+          <mxGeometry x="820" y="581" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-4" value="&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;Himpunan yang sama&lt;/span&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;fontColor=#000000;fillColor=#33FF33;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="581" width="140" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-5" value="&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;Himpunan yang Ekivalen&lt;/span&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;fontColor=#000000;fillColor=#33FF33;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="484" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-6" value="&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;Himpunan Saling Lepas&lt;/span&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;fontColor=#000000;fillColor=#33FF33;align=center;" vertex="1" parent="1">
+          <mxGeometry x="980" y="579" width="140" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-7" value="&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;Himpunan Kuasa&lt;/span&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;fontColor=#000000;fillColor=#33FF33;align=center;" vertex="1" parent="1">
+          <mxGeometry x="980" y="483" width="140" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-9" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline ; font-size: 20px&quot;&gt;&lt;b&gt;Operasi&lt;br&gt;pada Himpunan&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="404" y="290" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=20;fontColor=#000000;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="590" as="sourcePoint" />
-            <mxPoint x="730" y="570" as="targetPoint" />
+            <mxPoint x="879" y="470" as="sourcePoint" />
+            <mxPoint x="879.25" y="426.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-16" value="&lt;div style=&quot;line-height: normal ; margin-top: 1pt ; margin-bottom: 0pt ; margin-left: 0.29in ; text-indent: -0.28in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Irisan&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: -0.05pt&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: -0.05pt ; font-style: italic&quot;&gt;intersection&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: -0.05pt&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;shadow=0;fontSize=23;fontColor=#000000;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="360" y="434" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-17" value="&lt;div style=&quot;line-height: normal ; margin-top: 1pt ; margin-bottom: 0pt ; margin-left: 0.29in ; text-indent: -0.28in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.25pt ; vertical-align: baseline&quot;&gt;Gabungan&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: -0.55pt ; vertical-align: baseline&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.2pt ; vertical-align: baseline&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.2pt ; font-style: italic ; vertical-align: baseline&quot;&gt;union&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.2pt ; vertical-align: baseline&quot;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;shadow=0;fontSize=23;fontColor=#000000;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="465" y="493.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-18" value="&lt;div style=&quot;line-height: normal ; margin-top: 1pt ; margin-bottom: 0pt ; margin-left: 0.29in ; text-indent: -0.28in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 1.1pt ; vertical-align: baseline&quot;&gt;Komplemen&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; vertical-align: baseline ; letter-spacing: 0.533333px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: normal ; margin-top: 1pt ; margin-bottom: 0pt ; margin-left: 0.29in ; text-indent: -0.28in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.9pt ; vertical-align: baseline&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.9pt ; font-style: italic ; vertical-align: baseline&quot;&gt;complement&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.9pt ; vertical-align: baseline&quot;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;shadow=0;fontSize=23;fontColor=#000000;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="360" y="552" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-19" value="&lt;div style=&quot;line-height: normal ; margin-top: 1pt ; margin-bottom: 0pt ; margin-left: 0.29in ; text-indent: -0.28in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.05pt&quot;&gt;Beda &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Setangkup&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.05pt&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.05pt ; font-style: italic&quot;&gt;Symmetric&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-style: italic ; letter-spacing: -0.2px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.05pt ; font-style: italic&quot;&gt;Difference&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.05pt&quot;&gt;)&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;shadow=0;fontSize=23;fontColor=#000000;fillColor=#33FF33;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="669" width="150" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-20" value="&lt;div style=&quot;line-height: normal ; margin-top: 1pt ; margin-bottom: 0pt ; margin-left: 0.29in ; text-indent: -0.28in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.35pt&quot;&gt;Perkalian Kartesian&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;text-indent: -0.28in ; font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.3pt&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;text-indent: -0.28in ; font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.3pt ; font-style: italic&quot;&gt;cartesian&lt;/span&gt;&lt;span style=&quot;text-indent: -0.28in ; font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: -0.4pt ; font-style: italic&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -0.28in ; font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.3pt ; font-style: italic&quot;&gt;product&lt;/span&gt;&lt;span style=&quot;text-indent: -0.28in ; font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.3pt&quot;&gt;)&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;shadow=0;fontSize=23;fontColor=#000000;fillColor=#33FF33;align=center;" vertex="1" parent="1">
+          <mxGeometry x="444" y="738" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-21" value="&lt;div style=&quot;line-height: normal ; margin-top: 1pt ; margin-bottom: 0pt ; margin-left: 0.29in ; text-indent: -0.28in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; vertical-align: baseline&quot;&gt;Selisih&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.05pt ; vertical-align: baseline&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.05pt ; font-style: italic ; vertical-align: baseline&quot;&gt;difference&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.05pt ; vertical-align: baseline&quot;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;shadow=0;fontSize=23;fontColor=#000000;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="464" y="611" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-24" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=16;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9ZRpilB6RJvu4Sec9d-a-9" target="9hUdyjjjsrxh6lWfsKDw-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="270" as="sourcePoint" />
+            <mxPoint x="590" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="580" y="530" />
-              <mxPoint x="670" y="500" />
+              <mxPoint x="502" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-18" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; vertical-align: baseline&quot;&gt;Himpunan&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.2pt ; vertical-align: baseline&quot;&gt;kosong&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.2pt ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.05pt ; vertical-align: baseline&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.05pt ; font-style: italic ; vertical-align: baseline&quot;&gt;null&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: 0.05pt ; font-style: italic ; vertical-align: baseline&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.1pt ; font-style: italic ; vertical-align: baseline&quot;&gt;set&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.1pt ; vertical-align: baseline&quot;&gt;)&lt;/span&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;fontColor=#000000;fillColor=#66FF66;align=center;" vertex="1" parent="1">
-          <mxGeometry x="387.5" y="590" width="152.5" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-19" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; vertical-align: baseline&quot;&gt;Himpunan&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; letter-spacing: -0.85pt ; vertical-align: baseline&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; vertical-align: baseline&quot;&gt;Bagian&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; letter-spacing: -0.1pt ; vertical-align: baseline&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.1pt ; font-style: italic ; vertical-align: baseline&quot;&gt;Subset&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; letter-spacing: -0.1pt ; vertical-align: baseline&quot;&gt;)&lt;/span&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;fontColor=#000000;fillColor=#66FF66;align=center;" vertex="1" parent="1">
-          <mxGeometry x="790" y="560" width="152.5" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-21" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;labelBorderColor=none;sketch=0;fontFamily=Helvetica;fontSize=17;fontColor=#000000;strokeColor=default;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9hUdyjjjsrxh6lWfsKDw-19" target="9hUdyjjjsrxh6lWfsKDw-12">
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=16;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9ZRpilB6RJvu4Sec9d-a-23" target="9ZRpilB6RJvu4Sec9d-a-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="873" y="580" as="sourcePoint" />
-            <mxPoint x="860" y="510" as="targetPoint" />
+            <mxPoint x="580" y="440" as="sourcePoint" />
+            <mxPoint x="630" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="400" />
+              <mxPoint x="509" y="390" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9hUdyjjjsrxh6lWfsKDw-22" value="&lt;span style=&quot;font-family: monospace; font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20%26amp%3B%2334%3Bcalibri%26amp%3B%2334%3B%20%3B%20vertical-align%3A%20baseline%26quot%3B%26gt%3BHimpunan%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20%26amp%3B%2334%3Bcalibri%26amp%3B%2334%3B%20%3B%20letter-spacing%3A%20-0.85pt%20%3B%20vertical-align%3A%20baseline%26quot%3B%26gt%3B%20%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20%26amp%3B%2334%3Bcalibri%26amp%3B%2334%3B%20%3B%20vertical-align%3A%20baseline%26quot%3B%26gt%3BBagian%26amp%3Bnbsp%3B%20%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20%26amp%3B%2334%3Bcalibri%26amp%3B%2334%3B%20%3B%20letter-spacing%3A%20-0.1pt%20%3B%20vertical-align%3A%20baseline%26quot%3B%26gt%3B(%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20%26amp%3B%2334%3Bcarlito%26amp%3B%2334%3B%20%3B%20letter-spacing%3A%20-0.1pt%20%3B%20font-style%3A%20italic%20%3B%20vertical-align%3A%20baseline%26quot%3B%26gt%3BSubset%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20%26amp%3B%2334%3Bcalibri%26amp%3B%2334%3B%20%3B%20letter-spacing%3A%20-0.1pt%20%3B%20vertical-align%3A%20baseline%26quot%3B%26gt%3B)%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22shape%3Dcallout%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bperimeter%3DcalloutPerimeter%3BfontFamily%3DHelvetica%3BfontSize%3D15%3BfontColor%3D%23000000%3BfillColor%3D%2366FF66%3Balign%3Dcenter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22790%22%20y%3D%22560%22%20width%3D%22152.5%22%20height%3D%22120%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;font-family: monospace; font-size: 0px;&quot;&gt;3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20%26amp%3B%2334%3Bcalibri%26amp%3B%2334%3B%20%3B%20vertical-align%3A%20baseline%26quot%3B%26gt%3BHimpunan%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20%26amp%3B%2334%3Bcalibri%26amp%3B%2334%3B%20%3B%20letter-spacing%3A%20-0.85pt%20%3B%20vertical-align%3A%20baseline%26quot%3B%26gt%3B%20%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20%26amp%3B%2334%3Bcalibri%26amp%3B%2334%3B%20%3B%20vertical-align%3A%20baseline%26quot%3B%26gt%3BBagian%26amp%3Bnbsp%3B%20%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20%26amp%3B%2334%3Bcalibri%26amp%3B%2334%3B%20%3B%20letter-spacing%3A%20-0.1pt%20%3B%20vertical-align%3A%20baseline%26quot%3B%26gt%3B(%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20%26amp%3B%2334%3Bcarlito%26amp%3B%2334%3B%20%3B%20letter-spacing%3A%20-0.1pt%20%3B%20font-style%3A%20italic%20%3B%20vertical-align%3A%20baseline%26quot%3B%26gt%3BSubset%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20%26amp%3B%2334%3Bcalibri%26amp%3B%2334%3B%20%3B%20letter-spacing%3A%20-0.1pt%20%3B%20vertical-align%3A%20baseline%26quot%3B%26gt%3B)%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22shape%3Dcallout%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bperimeter%3DcalloutPerimeter%3BfontFamily%3DHelvetica%3BfontSize%3D15%3BfontColor%3D%23000000%3BfillColor%3D%2366FF66%3Balign%3Dcenter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22790%22%20y%3D%22560%22%20width%3D%22152.5%22%20height%3D%22120%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;fillColor=#66FF66;align=center;" vertex="1" parent="1">
-          <mxGeometry x="970" y="550" width="152.5" height="120" as="geometry" />
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-26" value="&lt;span style=&quot;font-size: 20px ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;Perampatan&lt;br&gt;Operasi&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;fontSize=16;fontColor=#000000;fillColor=#66FF66;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="290" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-27" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.05pt ; vertical-align: baseline&quot;&gt;Prinsip&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.7pt ; vertical-align: baseline&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.1pt ; vertical-align: baseline&quot;&gt;Dualitas&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;shadow=0;fontSize=20;fontColor=#000000;fillColor=#66FF66;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="285" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-28" value="" style="triangle;html=1;whiteSpace=wrap;shadow=0;fontSize=20;fontColor=#000000;fillColor=#66FF66;align=center;" vertex="1" parent="9ZRpilB6RJvu4Sec9d-a-27">
+          <mxGeometry x="20" y="20" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-29" value="Hukum - Hukum Himpunan" style="swimlane;shadow=0;fontSize=20;fontColor=#000000;fillColor=#66FF66;align=center;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="290" width="330" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-31" value="2. Hukum &lt;i&gt;null&lt;/i&gt;/dominasi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="9ZRpilB6RJvu4Sec9d-a-29">
+          <mxGeometry x="10" y="59" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-30" value="1. Hukum Identitas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="9ZRpilB6RJvu4Sec9d-a-29">
+          <mxGeometry x="10" y="29" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-33" value="3. Hukum Komplemen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="9ZRpilB6RJvu4Sec9d-a-29">
+          <mxGeometry x="10" y="89" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-34" value="4. Hukum Idempoten" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="9ZRpilB6RJvu4Sec9d-a-29">
+          <mxGeometry x="10" y="119" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-35" value="5. Hukum Involusi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="9ZRpilB6RJvu4Sec9d-a-29">
+          <mxGeometry x="10" y="149" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-37" value="7. Hukum Komutatif" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="9ZRpilB6RJvu4Sec9d-a-29">
+          <mxGeometry x="8" y="209" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-36" value="6. Hukum Penyerapan (absorpsi)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="9ZRpilB6RJvu4Sec9d-a-29">
+          <mxGeometry x="7" y="179" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-38" value="8. Hukum Asosiatif" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="9ZRpilB6RJvu4Sec9d-a-29">
+          <mxGeometry x="10" y="239" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-39" value="9. Hukum Distributif" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="9ZRpilB6RJvu4Sec9d-a-29">
+          <mxGeometry x="10" y="269" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-40" value="10. Hukum De Morgan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="9ZRpilB6RJvu4Sec9d-a-29">
+          <mxGeometry x="-3" y="299" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-42" value="11. Hukum 0/1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="9ZRpilB6RJvu4Sec9d-a-29">
+          <mxGeometry x="2" y="329" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-46" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.05pt ; vertical-align: baseline&quot;&gt;Prinsip&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; letter-spacing: -0.75pt ; vertical-align: baseline&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; vertical-align: baseline&quot;&gt;Inklusi-Eksklusi&lt;/span&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;fontSize=22;fontColor=#000000;fillColor=#66FF66;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-956" y="288" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-47" value="&lt;span style=&quot;font-size: 18pt ; font-family: &amp;#34;calibri&amp;#34; ; letter-spacing: -0.7pt&quot;&gt;P&lt;/span&gt;&lt;span style=&quot;font-size: 18pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;artisi&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;fontSize=20;fontColor=#000000;fillColor=#66FF66;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-49" value="&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: black ; vertical-align: baseline&quot;&gt;Himpunan&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: black ; letter-spacing: -0.85pt ; vertical-align: baseline&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: black ; letter-spacing: -0.05pt ; vertical-align: baseline&quot;&gt;Ganda&lt;span&gt;&amp;nbsp; &lt;/span&gt;(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34; ; color: black ; letter-spacing: -0.05pt ; font-style: italic ; vertical-align: baseline&quot;&gt;multiset&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; color: black ; letter-spacing: -0.05pt ; vertical-align: baseline&quot;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;" style="shape=delay;whiteSpace=wrap;html=1;shadow=0;fontSize=15;fontColor=#000000;fillColor=#66FF66;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="295" width="100" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-50" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.05pt ; vertical-align: baseline&quot;&gt;Operasi Antara Dua Buah&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: -0.5pt ; vertical-align: baseline&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; letter-spacing: 0.05pt ; font-style: italic ; vertical-align: baseline&quot;&gt;Multiset&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_rect;shadow=0;fontSize=16;fontColor=#000000;fillColor=#66FF66;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="405" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-51" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=15;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9ZRpilB6RJvu4Sec9d-a-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-580" y="340" as="sourcePoint" />
+            <mxPoint x="-100" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-280" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-52" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=15;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9ZRpilB6RJvu4Sec9d-a-26" target="9hUdyjjjsrxh6lWfsKDw-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-500" y="340" as="sourcePoint" />
+            <mxPoint x="-450" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-80" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-53" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=15;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9ZRpilB6RJvu4Sec9d-a-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-730" y="340" as="sourcePoint" />
+            <mxPoint x="-90" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-440" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-54" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=15;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9ZRpilB6RJvu4Sec9d-a-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-710" y="340" as="sourcePoint" />
+            <mxPoint x="-90" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-790" y="380" />
+              <mxPoint x="-710" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-55" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=15;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9ZRpilB6RJvu4Sec9d-a-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-710" y="340" as="sourcePoint" />
+            <mxPoint x="-90" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-860" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-56" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=15;fontColor=#000000;exitX=0.444;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9ZRpilB6RJvu4Sec9d-a-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-710" y="340" as="sourcePoint" />
+            <mxPoint x="-90" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1010" y="300" />
+              <mxPoint x="-870" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-57" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=15;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9ZRpilB6RJvu4Sec9d-a-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-830" y="340" as="sourcePoint" />
+            <mxPoint x="-90" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1010" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ZRpilB6RJvu4Sec9d-a-60" value="&lt;div class=&quot;O1&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.93in ; text-indent: -0.5in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;carlito&amp;#34;&quot;&gt;Simbol-simbol&lt;br&gt;Baku&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="405" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
